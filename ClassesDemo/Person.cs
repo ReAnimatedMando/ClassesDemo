@@ -13,6 +13,23 @@ public class Person
     // Methods (non-static examples to follow)
     public void Greet()
     {
-        Console.WriteLine($"Hello, my name is {Name}");
+        Console.WriteLine($"Hello, my name is {Name}!");
     }
+    
+    // Constructor
+    
+    // Default Constructor - a special method that builds using the blueprint, our object
+    public Person()
+    {
+        
+    }
+    
+    // Custom Constructor (can have as many custom constructors as you want
+    public Person(string name, int age)
+    {
+        Name = name;
+        Age = age;
+    }
+    
+    // Having both methods is an example of method overloading
 }
