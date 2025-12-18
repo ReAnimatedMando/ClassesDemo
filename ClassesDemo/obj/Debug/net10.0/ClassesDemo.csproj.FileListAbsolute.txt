@@ -1,0 +1,15 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\bin\Debug\net10.0\ClassesDemo.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\bin\Debug\net10.0\ClassesDemo.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\bin\Debug\net10.0\ClassesDemo.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\bin\Debug\net10.0\ClassesDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\bin\Debug\net10.0\ClassesDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.sourcelink.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\refint\ClassesDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ClassesDemo.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ClassesDemo\ClassesDemo\obj\Debug\net10.0\ref\ClassesDemo.dll
